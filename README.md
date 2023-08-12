@@ -1,4 +1,5 @@
-![Picture1](https://github.com/LaurieWired/RuntimeRiddles_DEFCON/assets/123765654/302dec11-8ff2-4ddb-b4ea-bf4c9edf8e00)
+
+![runtimeriddles](https://github.com/LaurieWired/RuntimeRiddles_DEFCON/assets/123765654/1de6a537-14c0-4582-ad96-9351df205f4f)
 
 # Runtime Riddles: Abusing Manipulation Points in the Android Source
 
